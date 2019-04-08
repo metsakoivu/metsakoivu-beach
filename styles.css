@@ -1,3 +1,6 @@
+#main-page {
+ background-color: rgb(155,192,255);
+}
 @media only screen and (max-width: 600px) {
  #link {
    display: block;
