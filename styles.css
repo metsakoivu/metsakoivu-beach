@@ -1,9 +1,10 @@
-@@font-face {
- 
+@font-face {
+    font-family: fontParagraphs;
+    src: url("FranklinGothic.ttf");
 }
 #main-page {
  background-color: rgb(155,192,255);
- font-family: "Franklin gothic", "titillium";
+ font-family: fontParagraphs;
 }
 @media only screen and (max-width: 790px) {
  #link {
